@@ -1,0 +1,2 @@
+export DISPLAY=localhost:0.0
+C:\Users\ishwa\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\ishwarya
